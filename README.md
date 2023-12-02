@@ -10,5 +10,17 @@ Matplotlib is a powerful data visualization library in Python that provides a wi
 
 To use the examples in this repository, you need to have Matplotlib installed. If you don't have it installed, you can install it using:
 
-```bash
 pip install matplotlib
+
+
+![BAR](BarChart.PNG)
+
+![PIE](PieChart.PNG)
+
+![BAR](BarChartModified.PNG)
+
+![BAR](ScatterChart.PNG)
+
+![BAR](LinearLine.PNG)
+
+![BAR](Histogram.PNG)
